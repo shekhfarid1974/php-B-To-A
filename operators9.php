@@ -23,6 +23,10 @@ echo "For x, the value is". $x . "<br>";
 
 
 
+// 3. Logical Operators
+
+
+
 
 
 
